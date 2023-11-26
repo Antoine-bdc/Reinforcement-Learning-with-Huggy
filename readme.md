@@ -72,6 +72,8 @@ According to our analysis:
 - PPO_baseline is among our best performing model
 - SAC_baseline is a test of the SAC algorithm in our case, it doesn't perform well
 
+Note: while we have loaded all 17 trained models to the [Hugging Face repository](https://huggingface.co/Cereale/trained_huggy_models/tree/main/models), it seems that the hugging face webapp doesn't offer all of them to play with.
+
 ## Credits
 
 Project made by:
