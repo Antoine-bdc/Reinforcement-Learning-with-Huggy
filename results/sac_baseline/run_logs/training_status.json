@@ -1,0 +1,29 @@
+{
+    "Huggy": {
+        "checkpoints": [
+            {
+                "steps": 2078,
+                "file_path": "results/sac_baseline/Huggy/Huggy-2078.onnx",
+                "reward": null,
+                "creation_time": 1698691269.6323094,
+                "auxillary_file_paths": [
+                    "results/sac_baseline/Huggy/Huggy-2078.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2078,
+            "file_path": "results/sac_baseline/Huggy.onnx",
+            "reward": null,
+            "creation_time": 1698691269.6323094,
+            "auxillary_file_paths": [
+                "results/sac_baseline/Huggy/Huggy-2078.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "1.13.1+rocm5.2"
+    }
+}

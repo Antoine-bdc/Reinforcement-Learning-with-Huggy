@@ -1,0 +1,110 @@
+{
+    "Huggy": {
+        "checkpoints": [
+            {
+                "steps": 399895,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-399895.onnx",
+                "reward": 3.987868550750944,
+                "creation_time": 1698499650.5270433,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-399895.pt"
+                ]
+            },
+            {
+                "steps": 599927,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-599927.onnx",
+                "reward": 3.654902128612294,
+                "creation_time": 1698499890.1892374,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-599927.pt"
+                ]
+            },
+            {
+                "steps": 799987,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-799987.onnx",
+                "reward": 3.706737196445465,
+                "creation_time": 1698500112.963844,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-799987.pt"
+                ]
+            },
+            {
+                "steps": 999955,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-999955.onnx",
+                "reward": 3.9729550357522636,
+                "creation_time": 1698500331.1981757,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-999955.pt"
+                ]
+            },
+            {
+                "steps": 1199916,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-1199916.onnx",
+                "reward": 3.969016421924938,
+                "creation_time": 1698500549.038081,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-1199916.pt"
+                ]
+            },
+            {
+                "steps": 1399909,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-1399909.onnx",
+                "reward": 3.96545064688927,
+                "creation_time": 1698500762.2215624,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-1399909.pt"
+                ]
+            },
+            {
+                "steps": 1599888,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-1599888.onnx",
+                "reward": 3.7510415998515705,
+                "creation_time": 1698500985.092428,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-1599888.pt"
+                ]
+            },
+            {
+                "steps": 1799996,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-1799996.onnx",
+                "reward": 3.3767958313603943,
+                "creation_time": 1698501204.2496583,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-1799996.pt"
+                ]
+            },
+            {
+                "steps": 1999900,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-1999900.onnx",
+                "reward": 4.0012803454148145,
+                "creation_time": 1698501424.2412791,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-1999900.pt"
+                ]
+            },
+            {
+                "steps": 2000343,
+                "file_path": "results/test_baseline_settings/Huggy/Huggy-2000343.onnx",
+                "reward": 3.9845677185058594,
+                "creation_time": 1698501424.3585443,
+                "auxillary_file_paths": [
+                    "results/test_baseline_settings/Huggy/Huggy-2000343.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000343,
+            "file_path": "results/test_baseline_settings/Huggy.onnx",
+            "reward": 3.9845677185058594,
+            "creation_time": 1698501424.3585443,
+            "auxillary_file_paths": [
+                "results/test_baseline_settings/Huggy/Huggy-2000343.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "1.13.1+rocm5.2"
+    }
+}

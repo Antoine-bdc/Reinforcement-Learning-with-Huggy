@@ -1,0 +1,110 @@
+{
+    "Huggy": {
+        "checkpoints": [
+            {
+                "steps": 399994,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-399994.onnx",
+                "reward": 3.6150268548872413,
+                "creation_time": 1698619952.4269063,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-399994.pt"
+                ]
+            },
+            {
+                "steps": 599876,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-599876.onnx",
+                "reward": 3.696386396884918,
+                "creation_time": 1698620194.5077288,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-599876.pt"
+                ]
+            },
+            {
+                "steps": 799953,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-799953.onnx",
+                "reward": 3.382896298335658,
+                "creation_time": 1698620409.1141775,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-799953.pt"
+                ]
+            },
+            {
+                "steps": 999958,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-999958.onnx",
+                "reward": 3.4939478879333823,
+                "creation_time": 1698620596.6171556,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-999958.pt"
+                ]
+            },
+            {
+                "steps": 1199991,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1199991.onnx",
+                "reward": 3.886641430854797,
+                "creation_time": 1698620769.188056,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1199991.pt"
+                ]
+            },
+            {
+                "steps": 1399947,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1399947.onnx",
+                "reward": 3.512503946503849,
+                "creation_time": 1698620937.8401744,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1399947.pt"
+                ]
+            },
+            {
+                "steps": 1599987,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1599987.onnx",
+                "reward": 2.9749953264600775,
+                "creation_time": 1698621107.103151,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1599987.pt"
+                ]
+            },
+            {
+                "steps": 1799953,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1799953.onnx",
+                "reward": 2.9391036868095397,
+                "creation_time": 1698621277.3109498,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1799953.pt"
+                ]
+            },
+            {
+                "steps": 1999959,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1999959.onnx",
+                "reward": 2.338551620439607,
+                "creation_time": 1698621444.9941573,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-1999959.pt"
+                ]
+            },
+            {
+                "steps": 2000010,
+                "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-2000010.onnx",
+                "reward": 2.3523578613695473,
+                "creation_time": 1698621445.0493393,
+                "auxillary_file_paths": [
+                    "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-2000010.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000010,
+            "file_path": "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy.onnx",
+            "reward": 2.3523578613695473,
+            "creation_time": 1698621445.0493393,
+            "auxillary_file_paths": [
+                "results/ppo_hidden_units_32_6a1429cccb9c4c008132dbe6c2d94818/Huggy/Huggy-2000010.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "1.13.1+rocm5.2"
+    }
+}

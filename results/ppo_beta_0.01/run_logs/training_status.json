@@ -1,0 +1,110 @@
+{
+    "Huggy": {
+        "checkpoints": [
+            {
+                "steps": 399923,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-399923.onnx",
+                "reward": 3.4090409576892853,
+                "creation_time": 1698574055.032107,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-399923.pt"
+                ]
+            },
+            {
+                "steps": 599963,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-599963.onnx",
+                "reward": 3.8009883486307583,
+                "creation_time": 1698574265.417105,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-599963.pt"
+                ]
+            },
+            {
+                "steps": 799950,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-799950.onnx",
+                "reward": 3.9236013543420505,
+                "creation_time": 1698574475.2109053,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-799950.pt"
+                ]
+            },
+            {
+                "steps": 999958,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-999958.onnx",
+                "reward": 3.843353570347101,
+                "creation_time": 1698574691.202682,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-999958.pt"
+                ]
+            },
+            {
+                "steps": 1199923,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-1199923.onnx",
+                "reward": 3.893347117162886,
+                "creation_time": 1698574907.8481774,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-1199923.pt"
+                ]
+            },
+            {
+                "steps": 1399948,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-1399948.onnx",
+                "reward": 4.936822278159005,
+                "creation_time": 1698575125.5019858,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-1399948.pt"
+                ]
+            },
+            {
+                "steps": 1599920,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-1599920.onnx",
+                "reward": 3.808120539601968,
+                "creation_time": 1698575337.204864,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-1599920.pt"
+                ]
+            },
+            {
+                "steps": 1799993,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-1799993.onnx",
+                "reward": 3.644137519893917,
+                "creation_time": 1698575554.463753,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-1799993.pt"
+                ]
+            },
+            {
+                "steps": 1999975,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-1999975.onnx",
+                "reward": 3.4786089785555574,
+                "creation_time": 1698575771.701729,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-1999975.pt"
+                ]
+            },
+            {
+                "steps": 2000038,
+                "file_path": "results/ppo_beta_0.01/Huggy/Huggy-2000038.onnx",
+                "reward": 3.5002775142590203,
+                "creation_time": 1698575771.8116753,
+                "auxillary_file_paths": [
+                    "results/ppo_beta_0.01/Huggy/Huggy-2000038.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000038,
+            "file_path": "results/ppo_beta_0.01/Huggy.onnx",
+            "reward": 3.5002775142590203,
+            "creation_time": 1698575771.8116753,
+            "auxillary_file_paths": [
+                "results/ppo_beta_0.01/Huggy/Huggy-2000038.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "1.13.1+rocm5.2"
+    }
+}

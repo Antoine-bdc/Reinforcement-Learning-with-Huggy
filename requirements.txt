@@ -1,0 +1,4 @@
+torch~=1.13.1
+ml-agents==21
+ml-agents-envs==21
+tensorboard==2.15.0
